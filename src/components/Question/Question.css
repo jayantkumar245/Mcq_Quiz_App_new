@@ -1,0 +1,14 @@
+.Content h1 {
+  margin: 0px;
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  text-shadow: none;
+  text-align: left;
+  padding: 0px;
+}
+h5 {
+  margin: 0px;
+  padding: 0px;
+}
